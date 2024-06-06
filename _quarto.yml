@@ -11,6 +11,8 @@ website:
         text: CV
       - href: /_site/publications.html
         text: Publications
+      - href: /_site/projects.html
+        text: Projects
 
 format:
   html:
