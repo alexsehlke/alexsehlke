@@ -9,6 +9,8 @@ website:
         text: Home
       - href: cv.html
         text: CV
+      - href: publications.html
+        text: Publications
 
 format:
   html:
