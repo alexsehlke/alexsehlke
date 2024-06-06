@@ -16,9 +16,21 @@ website:
       #   text: Research
       # - href: test.html
       #   text: Test
+  # sidebar:
+  #   style: "docked"
+  #   search: true
+  #   contents:
+  #     - section: "Basics"
+  #       contents:
+  #         - href: index.html
+  #           text: Home
+  #         - href: cv.html
+  #           text: CV
+  #         - href: publications.html
+  #           text: Publications
 
 format:
   html:
-    theme: litera
+    theme: sandstone
     css: styles.css
     toc: true
