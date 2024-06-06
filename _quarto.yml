@@ -11,8 +11,8 @@ website:
         text: CV
       - href: publications.html
         text: Publications
-      - href: projects.html
-        text: Projects
+      - href: research.html
+        text: Research
 
 format:
   html:
