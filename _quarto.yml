@@ -12,10 +12,10 @@ website:
         text: CV
       - href: publications.html
         text: Publications
-      - href: research.html
-        text: Research
-      - href: test.html
-        text: Test
+      # - href: research.html
+      #   text: Research
+      # - href: test.html
+      #   text: Test
 
 format:
   html:
