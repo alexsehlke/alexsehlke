@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PlanetSehlke",
+    "section": "",
+    "text": "Welcome to my page. I am a researcher in planetary geology, studying the dynamic processes of otherworldly landscapes to support the scientific exploration of our solar system.\n\nI am primarily interested in analyzing returned samples, with a focus on thermoluminescence and petrological studies. These samples include both lunar and meteorite specimens, which provide critical insights into the geological history and processes of our solar system.\nAdditionally, I am involved in the development of advanced space instruments for both human and robotic exploration missions. My goal is to create innovative tools that support the scientific exploration of other celestial bodies.\nMy research also involves studying terrestrial analogs, which are Earth-based environments that simulate extraterrestrial conditions. These analogs help us understand the geological processes and provide valuable insights into the geological features and histories of other planetary bodies."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study the thermoluminescene (TL) properties of lunar and lunar analog samples, which is useful to determine the temperature and radiation history of these samples. With the increasing interest in propsecting for volatiles on planetary surfaces, I am interested in applying the results to reconstruc the thermal history of the lunar surface.\nMoreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials."
+  },
+  {
+    "objectID": "research.html#thermoluminescence-studies-of-lunar-samples",
+    "href": "research.html#thermoluminescence-studies-of-lunar-samples",
+    "title": "Research",
+    "section": "",
+    "text": "I study the thermoluminescene (TL) properties of lunar and lunar analog samples, which is useful to determine the temperature and radiation history of these samples. With the increasing interest in propsecting for volatiles on planetary surfaces, I am interested in applying the results to reconstruc the thermal history of the lunar surface.\nMoreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials."
+  },
+  {
+    "objectID": "research.html#volcanoes-lava-flow-surfaces-and-their-morphologies",
+    "href": "research.html#volcanoes-lava-flow-surfaces-and-their-morphologies",
+    "title": "Research",
+    "section": "Volcanoes, lava flow surfaces and their morphologies",
+    "text": "Volcanoes, lava flow surfaces and their morphologies"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PDF version of CV can be found here: Curriculum Vitae updated in June 2024\nDr. Alexander Sehlke\nNASA Ames Research Center/\nBay Area Environmental Research Institute Moffett Field, CA 94035\nPhone: (650) 604-3651\nEmail: alexander.sehlke@nasa.gov\n\nPersonal Profile\nEarly career researcher with 10+ years of research experience, NASA postdoctoral fellow and federal grant recipient of 4+ prestigious research awards for laboratory and field studies, including student mentoring. Published over 26 research articles in peer- reviewed journals so far. Earned minor in College Teaching with direct teaching experience in the classroom and in the field.\n\n\n\nCurrent Position\nResearch Scientist at NASA Ames Research Center, contracting through the Bay Area Environmental Research Institute, Moffett Field, CA 94035\n\n\n\nEducation\n2015 Ph.D. in Geological Science with Minor in College Teaching University of Missouri, Columbia MO\nThesis Title: “The Rheological Evolution of Planetary Basalts During Cooling and Crystallization”. Thesis Advisor: Dr. Alan G. Whittington\n2011 Diploma in Geosciences\nLeibniz University of Hannover, Germany\n\n\n\nProfessional Appointments\nSince 2019 - Research Scientist\nat NASA Ames Research Center/ BAER Institute, Moffett Field CA, USA\n2019-2016 - NASA Postdoctoral Fellow\nat at NASA Ames Research Center, Moffett Field CA, USA"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -75,40 +110,5 @@
     "title": "Publications",
     "section": "[2014]",
     "text": "[2014]\n[3] Hofmeister, A. M., Sehlke, A., & Whittington, A. G. (2014). Thermal diffusivity of Fe-rich pyroxene glasses and their melts. Chemical Geology, 384. https://doi.org/10.1016/j.chemgeo.2014.06.018\n[2] Sehlke, A., Whittington, A. G., Robert, B., Harris, A., Gurioli, L., Médard, E., & Sehlke, A. (2014). Pahoehoe to áá transition of Hawaiian lavas: An experimental study. Bulletin of Volcanology, 76(11). https://doi.org/10.1007/s00445-014-0876-9\n[1] Robert, B., Harris, A., Gurioli, L., Médard, E., Sehlke, A., & Whittington, A. G. (2014). Textural and rheological evolution of basalt flowing down a lava channel. Bulletin of Volcanology, 76(6), 1–21. https://doi.org/10.1007/s00445-014-0824-8"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "PDF version of CV can be found here: Curriculum Vitae updated in June 2024\nDr. Alexander Sehlke\nNASA Ames Research Center/\nBay Area Environmental Research Institute Moffett Field, CA 94035\nPhone: (650) 604-3651\nEmail: alexander.sehlke@nasa.gov\nPERSONAL PROFILE\nEarly career researcher with 10+ years of research experience, NASA postdoctoral fellow and federal grant recipient of 4+ prestigious research awards for laboratory and field studies, including student mentoring. Published over 26 research articles in peer- reviewed journals so far. Earned minor in College Teaching with direct teaching experience in the classroom and in the field.\n\nCURRENT POSITION\nResearch Scientist at NASA Ames Research Center, contracting through the Bay Area Environmental Research Institute, Moffett Field, CA 94035\n\nEDUCATION\n2015 Ph.D. in Geological Science with Minor in College Teaching University of Missouri, Columbia MO\nThesis Title: “The Rheological Evolution of Planetary Basalts During Cooling and Crystallization”. Thesis Advisor: Dr. Alan G. Whittington\n2011 Diploma in Geosciences\nLeibniz University of Hannover, Germany\n\nPROFESSIONAL APPOINTMENTS\nSince 2019 - Research Scientist\nat NASA Ames Research Center/ BAER Institute, Moffett Field CA, USA\n2019-2016 - NASA Postdoctoral Fellow\nat at NASA Ames Research Center, Moffett Field CA, USA"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "I study the thermoluminescene (TL) properties of lunar and lunar analog samples, which is useful to determine the temperature and radiation history of these samples. With the increasing interest in propsecting for volatiles on planetary surfaces, I am interested in applying the results to reconstruc the thermal history of the lunar surface.\nMoreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials."
-  },
-  {
-    "objectID": "research.html#thermoluminescence-studies-of-lunar-samples",
-    "href": "research.html#thermoluminescence-studies-of-lunar-samples",
-    "title": "Research",
-    "section": "",
-    "text": "I study the thermoluminescene (TL) properties of lunar and lunar analog samples, which is useful to determine the temperature and radiation history of these samples. With the increasing interest in propsecting for volatiles on planetary surfaces, I am interested in applying the results to reconstruc the thermal history of the lunar surface.\nMoreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials."
-  },
-  {
-    "objectID": "research.html#volcanoes-lava-flow-surfaces-and-their-morphologies",
-    "href": "research.html#volcanoes-lava-flow-surfaces-and-their-morphologies",
-    "title": "Research",
-    "section": "Volcanoes, lava flow surfaces and their morphologies",
-    "text": "Volcanoes, lava flow surfaces and their morphologies"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PlanetSehlke",
-    "section": "",
-    "text": "Welcome to my page. I am a researcher in planetary geology, studying the dynamic processes of otherworldly landscapes to support the scientific exploration of our solar system.\n\nI am primarily interested in analyzing returned samples, with a focus on thermoluminescence and petrological studies. These samples include both lunar and meteorite specimens, which provide critical insights into the geological history and processes of our solar system.\nAdditionally, I am involved in the development of advanced space instruments for both human and robotic exploration missions. My goal is to create innovative tools that support the scientific exploration of other celestial bodies.\nMy research also involves studying terrestrial analogs, which are Earth-based environments that simulate extraterrestrial conditions. These analogs help us understand the geological processes and provide valuable insights into the geological features and histories of other planetary bodies."
   }
 ]
