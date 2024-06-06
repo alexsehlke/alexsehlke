@@ -20,4 +20,5 @@ website:
 format:
   html:
     theme: spacelab
+    css: styles.css
     toc: true
