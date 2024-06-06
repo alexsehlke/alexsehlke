@@ -19,6 +19,6 @@ website:
 
 format:
   html:
-    theme: lumen
+    theme: spacelab
     css: styles.css
     toc: true
