@@ -5,13 +5,13 @@ website:
   title: "PlanetSehlke"
   navbar:
     left:
-      - href: /_site/index.html
+      - href: index.html
         text: Home
-      - href: /_site/cv.html
+      - href: cv.html
         text: CV
-      - href: /_site/publications.html
+      - href: publications.html
         text: Publications
-      - href: /_site/projects.html
+      - href: projects.html
         text: Projects
 
 format:
