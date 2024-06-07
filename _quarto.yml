@@ -4,30 +4,38 @@ project:
 
 website:
   title: "PlanetSehlke"
-  navbar:
-    left:
-      - href: index.html
-        text: Home
-      - href: cv.html
-        text: CV
-      - href: publications.html
-        text: Publications
-      # - href: research.html
-      #   text: Research
-      # - href: test.html
-      #   text: Test
-  # sidebar:
-  #   style: "docked"
-  #   search: true
-  #   contents:
-  #     - section: "Basics"
-  #       contents:
-  #         - href: index.html
-  #           text: Home
-  #         - href: cv.html
-  #           text: CV
-  #         - href: publications.html
-  #           text: Publications
+  # navbar:
+  #   left:
+  #     - href: index.html
+  #       text: Home
+  #     - href: cv.html
+  #       text: CV
+  #     - href: publications.html
+  #       text: Publications
+  #     # - href: research.html
+  #     #   text: Research
+  #     # - href: test.html
+  #     #   text: Test
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - href: index.html
+            text: Home
+          - href: cv.html
+            text: CV
+          - href: publications.html
+            text: Publications
+      - section: "Research"
+        contents:
+          - href: thermoluminescence.html
+            text: Thermoluminescence
+          - href: instruments.html
+            text: Space Flight Instruments
+          - href: analogs.html
+            text: Planetary Analogs
 
 format:
   html:
