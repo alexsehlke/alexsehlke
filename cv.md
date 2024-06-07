@@ -8,16 +8,17 @@ title: Curriculum Vitae
 
 
 
-
+<p class="text-primary">
 
 Dr. Alexander Sehlke
-
 NASA Ames Research Center/  
 Bay Area Environmental Research Institute
 Moffett Field, CA 94035  
 Phone: (650) 604-3651
 
-Email: alexander.sehlke@nasa.gov
+Email: alexander.sehlke@nasa.gov</p>
+
+</p>
 
 # Personal Profile
 

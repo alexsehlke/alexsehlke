@@ -8,7 +8,7 @@ Peer-reviewed publications are listed below. See also my [Google Scholar](https:
 <!--* Table of Contents
 {:toc}-->
 
-<h2>2024</h2>
+## 2024
 
 **[30] Sehlke A.**, Sears DWG, & the ANGSA Science Team. (2024). Cold Trap Prospecting on the Moon: Theory and Insights from Low Temperature Thermoluminescence of Lunar Regolith. *Icarus. In review.*
 
