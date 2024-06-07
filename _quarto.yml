@@ -20,12 +20,12 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Basics"
+      - section: "About Me"
         contents:
           - href: index.html
             text: Home
           - href: cv.html
-            text: CV
+            text: Curriculum Vitae
           - href: publications.html
             text: Publications
       - section: "Research"
@@ -39,6 +39,6 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: cerulian
     css: styles.css
     toc: true
