@@ -35,7 +35,7 @@ $$
 
 where $\frac{dn}{dt}$ is the rate of change of the number of trapped electrons over time, $s$ is the frequency factor, which is a material-specific constant, $E$ is the activation energy required for the electrons to escape from their traps, $k$ is Boltzmann's constant, $T$ is the absolute temperature, and $\exp \left( \frac{E}{kT} \right)$ is the exponential term describing the probability of the trapped electrons gaining enough energy to escape.
 
-<p><center><img src="static/tlmechanism.png" width="50%"</center></P>
+<p><center><img src="static/tlmechanism.png" width="50%"></center></P>
 <em> 
 Fig. 1.  Band model for thermoluminescence.  The passage of ionizing radiation through the crystal (usually feldspar in lunar samples) promotes electrons to traps (impurity or intrinsic defects) a few eV in energy below the conduction band.  Heat causes the electrons to return to the conduction band where some fraction returns to the ground state through luminescence centers (usually a transition element impurity). For example, Mn sitting in a Ca site in the lattice can cause both traps (by lattice distortion) and luminescence centers (via d-d transitions in the Mn). </em>
 
