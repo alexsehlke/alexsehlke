@@ -30,7 +30,7 @@ website:
             text: Publications
       - section: "Research"
         contents:
-          - href: thermoluminescence.html
+          - href: tl.html
             text: Thermoluminescence
           - href: instruments.html
             text: Space Flight Instruments

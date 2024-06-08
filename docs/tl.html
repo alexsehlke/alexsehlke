@@ -39,9 +39,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -70,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -82,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">About Me</a></li><li class="breadcrumb-item"><a href="./index.html">Home</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./tl.html">Research</a></li><li class="breadcrumb-item"><a href="./tl.html">Thermoluminescence</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -118,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Home</span></a>
   </div>
 </li>
@@ -147,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./thermoluminescence.html" class="sidebar-item-text sidebar-link">
+  <a href="./tl.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Thermoluminescence</span></a>
   </div>
 </li>
@@ -171,7 +197,23 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#thermoluminescence-tl" id="toc-thermoluminescence-tl" class="nav-link active" data-scroll-target="#thermoluminescence-tl">Thermoluminescence (TL)</a>
+  <ul class="collapse">
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#basics-of-thermoluminescence" id="toc-basics-of-thermoluminescence" class="nav-link" data-scroll-target="#basics-of-thermoluminescence">Basics of Thermoluminescence</a>
+  <ul class="collapse">
+  <li><a href="#tl-build-up" id="toc-tl-build-up" class="nav-link" data-scroll-target="#tl-build-up">TL Build-Up</a></li>
+  <li><a href="#tl-decay" id="toc-tl-decay" class="nav-link" data-scroll-target="#tl-decay">TL Decay</a></li>
+  <li><a href="#combined-tl-equation" id="toc-combined-tl-equation" class="nav-link" data-scroll-target="#combined-tl-equation">Combined TL Equation</a></li>
+  </ul></li>
+  <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications">Applications</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -179,14 +221,46 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><a href="static/sehlke_TL_Lab.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="static/sehlke_TL_Lab.png" class="img-fluid"></a></p>
-<p><strong>Welcome to my page. I am a researcher in planetary geology, studying the dynamic processes of otherworldly landscapes to support the scientific exploration of our solar system.</strong></p>
+<section id="thermoluminescence-tl" class="level1">
+<h1>Thermoluminescence (TL)</h1>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Thermoluminescence (TL) is a form of luminescence that occurs when a material emits light upon being heated. This phenomenon is commonly used in archaeological dating, geology, and materials science. TL can provide insights into the thermal history of a sample and its exposure to radiation over time.</p>
+</section>
+<section id="basics-of-thermoluminescence" class="level2">
+<h2 class="anchored" data-anchor-id="basics-of-thermoluminescence">Basics of Thermoluminescence</h2>
+<section id="tl-build-up" class="level3">
+<h3 class="anchored" data-anchor-id="tl-build-up">TL Build-Up</h3>
+<p>Thermoluminescence build-up occurs when a material is exposed to ionizing radiation, such as sunlight or cosmic rays. The energy from this radiation is absorbed by the material and stored in the form of trapped electrons within defects in the crystal lattice. Over time, these electrons accumulate, and the material builds up a latent luminescence signal.</p>
+<p>The rate at which electrons are promoted to traps can be described by a first order rate equation such as:</p>
+<p><span class="math display">\[\frac{dn}{dt} = \alpha (N - n) R\]</span></p>
+<p>where <span class="math inline">\(n\)</span> is the number of trapped electrons, <span class="math inline">\(N\)</span> is the total number of available traps, and <span class="math inline">\(R\)</span> is the dose rate, <span class="math inline">\(t\)</span> is time, and <span class="math inline">\(\alpha\)</span> is a rate constant for electrons filling available traps, which can be determined experimentally from the growth curve of TL intensity versus dose.</p>
+</section>
+<section id="tl-decay" class="level3">
+<h3 class="anchored" data-anchor-id="tl-decay">TL Decay</h3>
+<p>When the material is subsequently heated, the trapped electrons gain enough energy to escape from their traps. As they recombine with holes in the crystal lattice, they release the stored energy in the form of visible light. This emission of light is the thermoluminescence signal. The intensity of the emitted light is proportional to the number of trapped electrons, which correlates with the amount of radiation the material has been exposed to.</p>
+<p>The decay of the thermoluminescence signal can be described by the following equation:</p>
+<p><span class="math display">\[
+\frac{dn}{dt} = -n s \exp \left( \frac{E}{kT} \right)
+\]</span></p>
+<p>where $ $ is the rate of change of the number of trapped electrons over time, $ n $ is the number of trapped electrons, $ s $ is the frequency factor, which is a material-specific constant, $ E $ is the activation energy required for the electrons to escape from their traps, $ k $ is Boltzmann’s constant, $ T $ is the absolute temperature, $ ( ) $ is the exponential term describing the probability of the trapped electrons gaining enough energy to escape.</p>
+</section>
+<section id="combined-tl-equation" class="level3">
+<h3 class="anchored" data-anchor-id="combined-tl-equation">Combined TL Equation</h3>
+<p>The overall thermoluminescence process can also be described by combining the build-up and decay processes into a more comprehensive equation. The general TL intensity as a function of time and temperature can be expressed as:</p>
+<p><span class="math inline">\(I = \frac{n_0^2 s}{N} \exp \left( -\frac{E}{kT} \right) \left[ 1 + \frac{n_0 s}{N \beta} \int \exp \left( -\frac{E}{kT} \right) dT \right]^{-2}\)</span></p>
+<p>Where all the variables are as previously defined.</p>
+</section>
+</section>
+<section id="applications" class="level2">
+<h2 class="anchored" data-anchor-id="applications">Applications</h2>
+<p>Thermoluminescence is widely used in various fields such as: - <strong>Archaeology</strong>: Dating ceramic materials and sediments. - <strong>Geology</strong>: Understanding the thermal history of rocks and minerals. - <strong>Material Science</strong>: Studying defects and properties of materials.</p>
+<p>Thermoluminescence continues to be a powerful tool for researchers in unraveling the past and understanding the properties of materials.</p>
 <hr>
-<p>I am primarily interested in analyzing returned samples, with a focus on thermoluminescence and petrological studies. These samples include both lunar and meteorite specimens, which provide critical insights into the geological history and processes of our solar system.</p>
-<p>Additionally, I am involved in the development of advanced space instruments for both human and robotic exploration missions. My goal is to create innovative tools that support the scientific exploration of other celestial bodies.</p>
-<p>My research also involves studying terrestrial analogs, which are Earth-based environments that simulate extraterrestrial conditions. These analogs help us understand the geological processes and provide valuable insights into the geological features and histories of other planetary bodies.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -599,31 +673,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","loop":false,"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom"});
-window.onload = () => {
-  lightboxQuarto.on('slide_before_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    const href = trigger.getAttribute('href');
-    if (href !== null) {
-      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-      if (imgEl !== null) {
-        const srcAttr = imgEl.getAttribute("src");
-        if (srcAttr && srcAttr.startsWith("data:")) {
-          slideConfig.href = srcAttr;
-        }
-      }
-    } 
-  });
-
-  lightboxQuarto.on('slide_after_load', (data) => {
-    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-    if (window.Quarto?.typesetMath) {
-      window.Quarto.typesetMath(slideNode);
-    }
-  });
-
-};
-          </script>
 
 
 

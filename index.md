@@ -1,7 +1,8 @@
 ---
 layout: home
+lightbox: true
 ---
-<img src="static/sehlke_TL_Lab.png" width="100%" height="100%">
+![](static/sehlke_TL_Lab.png){.lightbox}
 
 **Welcome to my page. I am a researcher in planetary geology, studying the dynamic processes of otherworldly landscapes to support the scientific exploration of our solar system.**
 
