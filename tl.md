@@ -32,13 +32,13 @@ $$
 \frac{dn}{dt} = -n s \exp \left( \frac{E}{kT} \right)
 $$
 
-where $ \frac{dn}{dt} $ is the rate of change of the number of trapped electrons over time, $ n $ is the number of trapped electrons, $ s $ is the frequency factor, which is a material-specific constant, $ E $ is the activation energy required for the electrons to escape from their traps, $ k $ is Boltzmann's constant, $ T $ is the absolute temperature, $ \exp \left( \frac{E}{kT} \right) $ is the exponential term describing the probability of the trapped electrons gaining enough energy to escape.
+where $\frac{dn}{dt}$ is the rate of change of the number of trapped electrons over time, $s$ is the frequency factor, which is a material-specific constant, $E$ is the activation energy required for the electrons to escape from their traps, $k$ is Boltzmann's constant, $T$ is the absolute temperature, and $\exp \left( \frac{E}{kT} \right)$ is the exponential term describing the probability of the trapped electrons gaining enough energy to escape.
 
 ### Combined TL Equation
 
 The overall thermoluminescence process can also be described by combining the build-up and decay processes into a more comprehensive equation. The general TL intensity as a function of time and temperature can be expressed as:
 
-$I = \frac{n_0^2 s}{N} \exp \left( -\frac{E}{kT} \right) \left[ 1 + \frac{n_0 s}{N \beta} \int \exp \left( -\frac{E}{kT} \right) dT \right]^{-2}$
+$$I = \frac{n_0^2 s}{N} \exp \left( -\frac{E}{kT} \right) \left[ 1 + \frac{n_0 s}{N \beta} \int \exp \left( -\frac{E}{kT} \right) dT \right]^{-2}$$
 
 
 Where all the variables are as previously defined.
