@@ -1,5 +1,6 @@
 ---
 Title: Thermoluminescence
+lightbox: true
 ---
 
 
@@ -24,7 +25,7 @@ where $n$ is the number of trapped electrons, $N$ is the total number of availab
 ### TL Decay
 
 When the material is subsequently heated, the trapped electrons gain enough energy to escape from their traps. As they recombine with holes in the crystal lattice, they release the stored energy in the form of visible light. This emission of light is the thermoluminescence signal. The intensity of the emitted light is proportional to the number of trapped electrons, which correlates with the amount of radiation the material has been exposed to.
-
+	
 The decay of the thermoluminescence signal can be described by the following equation:
 
 
@@ -34,9 +35,14 @@ $$
 
 where $\frac{dn}{dt}$ is the rate of change of the number of trapped electrons over time, $s$ is the frequency factor, which is a material-specific constant, $E$ is the activation energy required for the electrons to escape from their traps, $k$ is Boltzmann's constant, $T$ is the absolute temperature, and $\exp \left( \frac{E}{kT} \right)$ is the exponential term describing the probability of the trapped electrons gaining enough energy to escape.
 
+<p><center><img src="static/tlmechanism.png" width="50%"</center></P>
+<em> 
+Fig. 1.  Band model for thermoluminescence.  The passage of ionizing radiation through the crystal (usually feldspar in lunar samples) promotes electrons to traps (impurity or intrinsic defects) a few eV in energy below the conduction band.  Heat causes the electrons to return to the conduction band where some fraction returns to the ground state through luminescence centers (usually a transition element impurity). For example, Mn sitting in a Ca site in the lattice can cause both traps (by lattice distortion) and luminescence centers (via d-d transitions in the Mn). </em>
+
+
 ### Combined TL Equation
 
-The overall thermoluminescence process can also be described by combining the build-up and decay processes into a more comprehensive equation. The general TL intensity as a function of time and temperature can be expressed as:
+The overall thermoluminescence process can also be described by combining the build-up and decay processes into a more comprehensive equation. The general TL intensity as a function of heating temperature can be expressed as:
 
 $$I = \frac{n_0^2 s}{N} \exp \left( -\frac{E}{kT} \right) \left[ 1 + \frac{n_0 s}{N \beta} \int \exp \left( -\frac{E}{kT} \right) dT \right]^{-2}$$
 
