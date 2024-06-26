@@ -89,3 +89,4 @@ Peer-reviewed publications are listed below. See also my [Google Scholar](https:
 **[2]** **Sehlke, A.**, Whittington, A. G., Robert, B., Harris, A., Gurioli, L., Médard, E., & Sehlke, A. (2014). Pahoehoe to áá transition of Hawaiian lavas: An experimental study. *Bulletin of Volcanology*, *76*(11). <https://doi.org/10.1007/s00445-014-0876-9>
 
 **[1]** Robert, B., Harris, A., Gurioli, L., Médard, E., **Sehlke, A.**, & Whittington, A. G. (2014). Textural and rheological evolution of basalt flowing down a lava channel. *Bulletin of Volcanology*, *76*(6), 1–21. <https://doi.org/10.1007/s00445-014-0824-8>
+> 
