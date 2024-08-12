@@ -4,7 +4,7 @@ title: Curriculum Vitae
 
 
 
-**PDF version of CV can be found here:** [<u>Curriculum Vitae PDF, please click link.</u>](/docs/static/Alexander_Sehlke_CV.pdf)
+**PDF version of CV can be found here:** [<u>Curriculum Vitae updated in June 2024</u>](/static/Sehlke_CV_June2024.pdf)
 
 
 

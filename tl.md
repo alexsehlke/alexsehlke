@@ -53,28 +53,10 @@ Where all the variables are as previously defined.
 
 Thermoluminescence is widely used in various fields such as:
 - **Archaeology**: Dating ceramic materials and sediments.
-- **Radiation Dosimetry**: Measurements of radiation doses
 - **Geology**: Understanding the thermal history of rocks and minerals.
 - **Material Science**: Studying defects and properties of materials.
 
 Thermoluminescence continues to be a powerful tool for researchers in unraveling the past and understanding the properties of materials.
-
-
-# TL of Lunar Regolith Samples
-
-## Background
-Lunar regolith is the fine dusty material that covers the lunar surface. Probably one of the most famous images in history is the bootprint of the first astronaut, Neil Armstrong, in lunar regolith.
-Lunar regolith is composed of many different minerals. One of the most abundant minerals is feldspar, a usually white-colored mineral, that is also highly luminescent. The TL of feldspar can provide information about the thermal and radiation history of the lunar surface. Moreover, due to the variability in the TL signal measured, the method also can tell us about what type of feldspar is present and as such tell us under what condition this mineral has formed in the first place, which i important to understand the geologic history of the Moon.
-
-## The TL of the Apollo 17 Samples from the Taurus-Littrow Valley on the Moon
-
-Most of my work so far on lunar samples has been on Apollo 17 samples that were collected duirng the last manned mission to the Moon at the Taurus-Littrow Valley. 
-
-<p><center><img src="static/Figure_02_TL Surface Samples.png" width="80%"></center></P>
-<em> 
-Fig. 2 TL glow curves (black line) for samples in different illumination conditions and temperature environments. (a) is for regolith taken in sunlight near the deep drill core drill site, while (b) is for regolith taken from regolith deep in the shadow of the Boulder 4 at Station 6.  The difference in the thermal conditions inside the boulder shadow and sunlit surface is clearly apparent. (c) Glow curve after a dose of ~135 Gy of 90Sr beta radiation. Shaded areas underneath glow curve corresponds to individual peaks listed in Table 1. Gray lines represent the sum of individual curves. TL intensity is given in thousand counts per second (cps). Data and surface temperature estimates derived from natural TL are from Sears et al. (2024). </em>
-
-
 
 ---
 
