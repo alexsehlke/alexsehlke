@@ -28,8 +28,6 @@ website:
             text: Curriculum Vitae
           - href: publications.html
             text: Publications
-          - href: vitae.html
-            text: Vitae
       - section: "Research"
         contents:
           - href: tl.html
