@@ -1,0 +1,32 @@
+{
+  "index.md": {
+    "index.html": "1498de7c"
+  },
+  "website.ipynb": {
+    "website.html": "c87f6a8f"
+  },
+  "cv.md": {
+    "cv.html": "279e0a26"
+  },
+  "research.md": {
+    "research.html": "ba57ef11"
+  },
+  "publications.md": {
+    "publications.html": "6f723311"
+  },
+  "test.md": {
+    "test.html": "ba514d0f"
+  },
+  "tl.md": {
+    "tl.html": "3404c1cb"
+  },
+  "vitae.qmd.md": {
+    "vitae.qmd.html": "f07372ba",
+    "vitae.qmd.pdf": "18da2005"
+  },
+  "vitae.md": {
+    "vitae.html": "724f0cc7",
+    "vitae.pdf": "66c9b7aa",
+    "vitae.tex": "65709527"
+  }
+}
