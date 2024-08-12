@@ -1,0 +1,46 @@
+project:
+  output-dir: docs
+  type: website
+
+website:
+  title: "PlanetSehlke"
+  # navbar:
+  #   left:
+  #     - href: index.html
+  #       text: Home
+  #     - href: cv.html
+  #       text: CV
+  #     - href: publications.html
+  #       text: Publications
+  #     # - href: research.html
+  #     #   text: Research
+  #     # - href: test.html
+  #     #   text: Test
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "About Me"
+        contents:
+          - href: index.html
+            text: Home
+          - href: cv.html
+            text: Curriculum Vitae
+          - href: publications.html
+            text: Publications
+          - href: vitae.html
+            text: Vitae
+      - section: "Research"
+        contents:
+          - href: tl.html
+            text: Thermoluminescence
+          - href: instruments.html
+            text: Space Flight Instruments
+          - href: analogs.html
+            text: Planetary Analogs
+
+format:
+  html:
+    theme: cerulian
+    #css: styles.css
+    toc: true
