@@ -21,47 +21,39 @@
     "text": "Volcanoes, lava flow surfaces and their morphologies"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PlanetSehlke",
-    "section": "",
-    "text": "Welcome to my page. I am a researcher in planetary geology, studying the dynamic processes of otherworldly landscapes to support the scientific exploration of our solar system.\n\nI am primarily interested in analyzing returned samples, with a focus on thermoluminescence and petrological studies. These samples include both lunar and meteorite specimens, which provide critical insights into the geological history and processes of our solar system.\nAdditionally, I am involved in the development of advanced space instruments for both human and robotic exploration missions. My goal is to create innovative tools that support the scientific exploration of other celestial bodies.\nMy research also involves studying terrestrial analogs, which are Earth-based environments that simulate extraterrestrial conditions. These analogs help us understand the geological processes and provide valuable insights into the geological features and histories of other planetary bodies.",
-    "crumbs": [
-      "About Me",
-      "Home"
-    ]
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "I study the thermoluminescene (TL) properties of lunar and lunar analog samples, which is useful to determine the temperature and radiation history of these samples. With the increasing interest in propsecting for volatiles on planetary surfaces, I am interested in applying the results to reconstruc the thermal history of the lunar surface.\nMoreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials."
-  },
-  {
-    "objectID": "research.html#thermoluminescence-studies-of-lunar-samples",
-    "href": "research.html#thermoluminescence-studies-of-lunar-samples",
-    "title": "Research",
-    "section": "",
-    "text": "I study the thermoluminescene (TL) properties of lunar and lunar analog samples, which is useful to determine the temperature and radiation history of these samples. With the increasing interest in propsecting for volatiles on planetary surfaces, I am interested in applying the results to reconstruc the thermal history of the lunar surface.\nMoreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials."
-  },
-  {
-    "objectID": "research.html#volcanoes-lava-flow-surfaces-and-their-morphologies",
-    "href": "research.html#volcanoes-lava-flow-surfaces-and-their-morphologies",
-    "title": "Research",
-    "section": "Volcanoes, lava flow surfaces and their morphologies",
-    "text": "Volcanoes, lava flow surfaces and their morphologies"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
+    "objectID": "education.html",
+    "href": "education.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "PDF version of CV can be found here: Please click here for full CV pdf\n\nDr. Alexander Sehlke NASA Ames Research Center/\nBay Area Environmental Research Institute Moffett Field, CA 94035\nPhone: (650) 604-3651\nEmail: alexander.sehlke@nasa.gov\n\n\n\nPersonal Profile\nEarly career researcher with 10+ years of research experience, NASA postdoctoral fellow and federal grant recipient of 4+ prestigious research awards for laboratory and field studies, including student mentoring. Published over 26 research articles in peer- reviewed journals so far. Earned minor in College Teaching with direct teaching experience in the classroom and in the field.\n\n\n\nCurrent Position\nResearch Scientist at NASA Ames Research Center, contracting through the Bay Area Environmental Research Institute, Moffett Field, CA 94035\n\n\n\nEducation\n2015 Ph.D. in Geological Science with Minor in College Teaching University of Missouri, Columbia MO\nThesis Title: “The Rheological Evolution of Planetary Basalts During Cooling and Crystallization”. Thesis Advisor: Dr. Alan G. Whittington\n2011 Diploma in Geosciences\nLeibniz University of Hannover, Germany\n\n\n\nProfessional Appointments\nSince 2019 - Research Scientist\nat NASA Ames Research Center/ BAER Institute, Moffett Field CA, USA\n2019-2016 - NASA Postdoctoral Fellow\nat at NASA Ames Research Center, Moffett Field CA, USA",
-    "crumbs": [
-      "About Me",
-      "Curriculum Vitae"
-    ]
+    "text": "cynthia.huang@monash.edu"
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nDoctor of Philosophy – Econometrics and Business Statistics  Monash University Aug 2021 — Present\n\nNew principles and methods for complex data preparation and integration, with applications to official statistics, web-scrapped data and satellite raster images\nMonash Data Futures Institute PhD Top-Up Scholarship (2021-2024)\nExpected submission date: Nov 2024"
+  },
+  {
+    "objectID": "education.html#work-experience",
+    "href": "education.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\nData Scientist\nFreelance, Multiple Clients Jan 2020 – June 2021\nProviding data collection, pre-processing, exploratory analysis and modelling services to clients in the early R&D stages of developing data driven products. Projects include:\n\nData description and preliminary product feasibility insights for a start-up real estate bond platform; including assessing suitability of various property transaction databases for use in initial product prototype.\nDevelopment of statistical anomaly detection regimes and key historical insights from internet quality time-series data for use in parametric insurance products, including documenting analysis tools in an R package."
+  },
+  {
+    "objectID": "education.html#presentations-and-workshops",
+    "href": "education.html#presentations-and-workshops",
+    "title": "Curriculum Vitae",
+    "section": "PRESENTATIONS AND WORKSHOPS",
+    "text": "PRESENTATIONS AND WORKSHOPS\n\nTalk: Misadventures with Reproducibility in R (30 Nov 2022, R Ladies Melbourne Meetup)\nTalk: Designing R Packages (4 Oct 2022, Monash EBS Data Science Research Software Study Group)\nTalk: Quarto Websites as Research Compendiums (16 Aug 2022, Monash EBS Data Science Research Software Study Group)\nWorkshop: Writing academic papers with Rmarkdown and friends (9 Aug 2022, Monash University)"
+  },
+  {
+    "objectID": "education.html#references",
+    "href": "education.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request"
   },
   {
     "objectID": "publications.html",
@@ -79,7 +71,7 @@
     "href": "publications.html#section",
     "title": "Publications",
     "section": "2024",
-    "text": "2024\n[31] Sehlke A., Sears DWG, & the ANGSA Science Team. (2024). Cold Trap Prospecting on the Moon: Theory and Insights from Low Temperature Thermoluminescence of Lunar Regolith. Icarus. In review.\n[30] Sears DWG., Sehlke A, Schmitt HH, & the ANGSA Science Team. (2024). Thermoluminescence and Apollo 17 ANGSA lunar samples: NASA’s fifty-year experiment and prospecting for cold traps. Journal of Geophysical Research: Planets, 129. In review. Authorea Preprints. https://doi.org/10.22541/AU.170967885.52170034/V1\n[29] Shearer CK, McCubbin FM, Eckley S, Simon SB, Meshik A, McDonald F, Schmitt HH, Zeigler RA, Gross J, Mitchell J, Krysher C, Morris RV, Parai R, Jolliff BL, Gillis-Davis JJ, Joy K, Bell SK, Lucey P, Sun L, Sharp Z, Dukes C, Sehlke A, Mosie A, Allton J, Amick C, Simon JI, Erickson TM, Barnes JJ, Dyar MD, Burgess K, Petro N, Moriarty D, Curran NM, Elsila JE, Colina-Ruiz RA, Kroll T, Sokaras D, Ishii HA, Bradley JP, Sears D, Cohen B, Pravdivseva O, Thompson MS, Neal CR, Hanna R, Ketcham R, Welten K, and the ANGSA Science Team (2024) Apollo Next Generation Sample Analysis (ANGSA): an Apollo Participating Scientist Program to Prepare the Lunar Sample Community for Artemis. Space Science Review 220,62. https://doi.org/10.1007/s11214-024-01094-x\n[28] Morlok A, Sehlke A, Stojic AN, Whittington A, Weber I, Reitze MP, Hiesinger H, & Helbert J. (2024). Synthetic analogs for lava flows on the surface of Mercury: A mid-infrared study. Icarus, 415, 116078. https://doi.org/10.1016/J.ICARUS.2024.116078\n[27] Sehlke A., Sears DWG, & the ANGSA Science Team. (2024). The Apollo 17 Regolith: Induced Thermoluminescence Evidence for Formation by a Single Event ∼100 Million Years Ago and Possibly the Presence of Tycho Material. Journal of Geophysical Research: Planets, 129(4), e2023JE008083. https://doi.org/10.1029/2023JE008083",
+    "text": "2024\n[30] Sears DWG., Sehlke A, Schmitt HH, & the ANGSA Science Team. (2024). Thermoluminescence and Apollo 17 ANGSA lunar samples: NASA’s fifty-year experiment and prospecting for cold traps. Journal of Geophysical Research: Planets, 129. In review. Authorea Preprints. https://doi.org/10.1029/2024JE008358\n[29] Shearer CK, McCubbin FM, Eckley S, Simon SB, Meshik A, McDonald F, Schmitt HH, Zeigler RA, Gross J, Mitchell J, Krysher C, Morris RV, Parai R, Jolliff BL, Gillis-Davis JJ, Joy K, Bell SK, Lucey P, Sun L, Sharp Z, Dukes C, Sehlke A, Mosie A, Allton J, Amick C, Simon JI, Erickson TM, Barnes JJ, Dyar MD, Burgess K, Petro N, Moriarty D, Curran NM, Elsila JE, Colina-Ruiz RA, Kroll T, Sokaras D, Ishii HA, Bradley JP, Sears D, Cohen B, Pravdivseva O, Thompson MS, Neal CR, Hanna R, Ketcham R, Welten K, and the ANGSA Science Team (2024) Apollo Next Generation Sample Analysis (ANGSA): an Apollo Participating Scientist Program to Prepare the Lunar Sample Community for Artemis. Space Science Review 220,62. https://doi.org/10.1007/s11214-024-01094-x\n[28] Morlok A, Sehlke A, Stojic AN, Whittington A, Weber I, Reitze MP, Hiesinger H, & Helbert J. (2024). Synthetic analogs for lava flows on the surface of Mercury: A mid-infrared study. Icarus, 415, 116078. https://doi.org/10.1016/J.ICARUS.2024.116078\n[27] Sehlke A., Sears DWG, & the ANGSA Science Team. (2024). The Apollo 17 Regolith: Induced Thermoluminescence Evidence for Formation by a Single Event ∼100 Million Years Ago and Possibly the Presence of Tycho Material. Journal of Geophysical Research: Planets, 129(4), e2023JE008083. https://doi.org/10.1029/2024JE008358",
     "crumbs": [
       "About Me",
       "Publications"
@@ -182,6 +174,56 @@
     "crumbs": [
       "About Me",
       "Publications"
+    ]
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PDF version of CV can be found here: Please click here for full CV pdf\n\nDr. Alexander Sehlke NASA Ames Research Center/\nBay Area Environmental Research Institute Moffett Field, CA 94035\nPhone: (650) 604-3651\nEmail: alexander.sehlke@nasa.gov\n\n\n\nPersonal Profile\nEarly career researcher with 10+ years of research experience, NASA postdoctoral fellow and federal grant recipient of 4+ prestigious research awards for laboratory and field studies, including student mentoring. Published over 26 research articles in peer- reviewed journals so far. Earned minor in College Teaching with direct teaching experience in the classroom and in the field.\n\n\n\nCurrent Position\nResearch Scientist at NASA Ames Research Center, contracting through the Bay Area Environmental Research Institute, Moffett Field, CA 94035\n\n\n\nEducation\n2015 Ph.D. in Geological Science with Minor in College Teaching University of Missouri, Columbia MO\nThesis Title: “The Rheological Evolution of Planetary Basalts During Cooling and Crystallization”. Thesis Advisor: Dr. Alan G. Whittington\n2011 Diploma in Geosciences\nLeibniz University of Hannover, Germany\n\n\n\nProfessional Appointments\nSince 2019 - Research Scientist\nat NASA Ames Research Center/ BAER Institute, Moffett Field CA, USA\n2019-2016 - NASA Postdoctoral Fellow\nat at NASA Ames Research Center, Moffett Field CA, USA",
+    "crumbs": [
+      "About Me",
+      "Curriculum Vitae"
+    ]
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study the thermoluminescene (TL) properties of lunar and lunar analog samples, which is useful to determine the temperature and radiation history of these samples. With the increasing interest in propsecting for volatiles on planetary surfaces, I am interested in applying the results to reconstruc the thermal history of the lunar surface.\nMoreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials."
+  },
+  {
+    "objectID": "research.html#thermoluminescence-studies-of-lunar-regolith-and-meteorites",
+    "href": "research.html#thermoluminescence-studies-of-lunar-regolith-and-meteorites",
+    "title": "Research",
+    "section": "",
+    "text": "I study the thermoluminescene (TL) properties of lunar and lunar analog samples, which is useful to determine the temperature and radiation history of these samples. With the increasing interest in propsecting for volatiles on planetary surfaces, I am interested in applying the results to reconstruc the thermal history of the lunar surface.\nMoreover, I am also pursuing the development of a small-scale, leightweight TL instrument that would provide in-situ TL measurements on the Moon. The instrument prototype is named THEIA, which stands for Thermal History Exploration Instrument for Artemis. It is named after the greek deity Theia, who gives glimmer and shining to materials."
+  },
+  {
+    "objectID": "research.html#space-flight-instrument-development-efforts",
+    "href": "research.html#space-flight-instrument-development-efforts",
+    "title": "Research",
+    "section": "Space-flight Instrument Development Efforts",
+    "text": "Space-flight Instrument Development Efforts"
+  },
+  {
+    "objectID": "research.html#volcanoes-lava-flow-surfaces-and-their-morphologies",
+    "href": "research.html#volcanoes-lava-flow-surfaces-and-their-morphologies",
+    "title": "Research",
+    "section": "Volcanoes, lava flow surfaces and their morphologies",
+    "text": "Volcanoes, lava flow surfaces and their morphologies"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PlanetSehlke",
+    "section": "",
+    "text": "Welcome to my page. I am a researcher in planetary geology, studying the dynamic processes of otherworldly landscapes to support the scientific exploration of our solar system.\n\nI am primarily interested in analyzing returned samples, with a focus on thermoluminescence and petrological studies. These samples include both lunar and meteorite specimens, which provide critical insights into the geological history and processes of our solar system.\nAdditionally, I am involved in the development of advanced space instruments for both human and robotic exploration missions. My goal is to create innovative tools that support the scientific exploration of other celestial bodies.\nMy research also involves studying terrestrial analogs, which are Earth-based environments that simulate extraterrestrial conditions. These analogs help us understand the geological processes and provide valuable insights into the geological features and histories of other planetary bodies.",
+    "crumbs": [
+      "About Me",
+      "Home"
     ]
   },
   {
