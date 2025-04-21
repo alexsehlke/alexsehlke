@@ -10,13 +10,13 @@ Peer-reviewed publications are listed below. See also my [Google Scholar](https:
 
 ## 2025
 
-**[31]** Stojic A., **Sehlke A**, Whittington AG, Morlok A., and Hiesinger H. (2025). A detailed µ-FTIR study of Hermean glasses: Spectral mainband shape and
+**[31]** Stojic A, **Sehlke A**, Whittington AG, Morlok A, and Hiesinger H (2025). A detailed µ-FTIR study of Hermean glasses: Spectral mainband shape and
 flank, what do they tell us? *Journal of Non-Crystalline Solids* Volume 660. [https://doi.org/10.1016/j.jnoncrysol.2025.123523](https://doi.org/10.1016/j.jnoncrysol.2025.123523)
 
 
 ## 2024
 
-**[30]** Sears DWG., **Sehlke A**, Schmitt HH, & the ANGSA Science Team. (2024). Thermoluminescence and Apollo 17 ANGSA lunar samples: NASA’s fifty-year experiment and prospecting for cold traps. *Journal of Geophysical Research: Planets, 129.* [https://doi.org/10.1029/2024JE008358](https://doi.org/10.1029/2024JE008358)
+**[30]** Sears DWG, **Sehlke A**, Schmitt HH, & the ANGSA Science Team. (2024). Thermoluminescence and Apollo 17 ANGSA lunar samples: NASA’s fifty-year experiment and prospecting for cold traps. *Journal of Geophysical Research: Planets, 129.* [https://doi.org/10.1029/2024JE008358](https://doi.org/10.1029/2024JE008358)
 
 **[29]** Shearer CK, McCubbin FM, Eckley S, Simon SB, Meshik A, McDonald F, Schmitt HH, Zeigler RA, Gross J, Mitchell J, Krysher C, Morris RV, Parai R, Jolliff BL, Gillis-Davis JJ, Joy K, Bell SK, Lucey P, Sun L, Sharp Z, Dukes C, **Sehlke A**, Mosie A, Allton J, Amick C, Simon JI, Erickson TM, Barnes JJ, Dyar MD, Burgess K, Petro N, Moriarty D, Curran NM, Elsila JE, Colina-Ruiz RA, Kroll T, Sokaras D, Ishii HA, Bradley JP, Sears D, Cohen B, Pravdivseva O, Thompson MS, Neal CR, Hanna R, Ketcham R, Welten K, and the ANGSA Science Team (2024) Apollo Next Generation Sample Analysis (ANGSA): an Apollo Participating Scientist Program to Prepare the Lunar Sample Community for Artemis. *Space Science Review 220,62*. [https://doi.org/10.1007/s11214-024-01094-x](https://doi.org/10.1007/s11214-024-01094-x)
 
