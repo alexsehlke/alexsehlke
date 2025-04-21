@@ -14,7 +14,7 @@ Peer-reviewed publications are listed below. See also my [Google Scholar](https:
 flank, what do they tell us? *Journal of Non-Crystalline Solids* Volume 660. [https://doi.org/10.1016/j.jnoncrysol.2025.123523](https://doi.org/10.1016/j.jnoncrysol.2025.123523)
 
 
-##2024
+## 2024
 
 **[30]** Sears DWG., **Sehlke A**, Schmitt HH, & the ANGSA Science Team. (2024). Thermoluminescence and Apollo 17 ANGSA lunar samples: NASA’s fifty-year experiment and prospecting for cold traps. *Journal of Geophysical Research: Planets, 129.* [https://doi.org/10.1029/2024JE008358](https://doi.org/10.1029/2024JE008358)
 
