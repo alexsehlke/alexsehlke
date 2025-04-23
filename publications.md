@@ -1,5 +1,8 @@
 ---
 title: Publications
+date: 
+      value: last-modified
+      format: "MMMM D, YYYY"  # e.g., April 23, 2025
 ---
 
 Peer-reviewed publications are listed below. See also my [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) page for additional information.
