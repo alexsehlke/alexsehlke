@@ -7,15 +7,21 @@ date:
 
 Peer-reviewed publications are listed below. See also my [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) page for additional information.
 
-
 <!--* Table of Contents
 {:toc}-->
 
 ## 2025
 
+[33] **Sehlke A**, Sears DWG, and the ANGSA Science Team (2025, in review) Thermal Equilibrium States and Timescales of Lunar Cold Traps via Low- Temperature Thermoluminescence. *Planetary and Space Science*, in review.
+
+
+
+**[32]** Luzzi A, Heldmann JL, Williams KE, Nodjoumi G, Deutsch A, and **Sehlke A** (2025). Geomorphological Evidence of Near‐Surface Ice at Candidate Landing Sites in Northern Amazonis Planitia, Mars. *Journal of Geophysical Research: Planets* Volume 130(5). [https://doi.org/10.1029/2024JE008724](https://doi.org/10.1029/2024JE008724)
+
+
+
 **[31]** Stojic A, **Sehlke A**, Whittington AG, Morlok A, and Hiesinger H (2025). A detailed µ-FTIR study of Hermean glasses: Spectral mainband shape and
 flank, what do they tell us? *Journal of Non-Crystalline Solids* Volume 660. [https://doi.org/10.1016/j.jnoncrysol.2025.123523](https://doi.org/10.1016/j.jnoncrysol.2025.123523)
-
 
 ## 2024
 
@@ -25,9 +31,7 @@ flank, what do they tell us? *Journal of Non-Crystalline Solids* Volume 660. [ht
 
 **[28]** Morlok A, **Sehlke A**, Stojic AN, Whittington A, Weber I, Reitze MP, Hiesinger H, & Helbert J. (2024). Synthetic analogs for lava flows on the surface of Mercury: A mid-infrared study. *Icarus*, 415, 116078. [https://doi.org/10.1016/J.ICARUS.2024.116078](https://doi.org/10.1016/J.ICARUS.2024.116078)
 
-
 **[27] Sehlke A.**, Sears DWG, & the ANGSA Science Team. (2024). The Apollo 17 Regolith: Induced Thermoluminescence Evidence for Formation by a Single Event ∼100 Million Years Ago and Possibly the Presence of Tycho Material. *Journal of Geophysical Research: Planets*, 129(4), e2023JE008083. [https://doi.org/10.1029/2024JE008358](https://doi.org/10.1029/2023JE008083)
-
 
 ## 2022
 
@@ -98,4 +102,5 @@ flank, what do they tell us? *Journal of Non-Crystalline Solids* Volume 660. [ht
 **[2]** **Sehlke, A.**, Whittington, A. G., Robert, B., Harris, A., Gurioli, L., Médard, E., & Sehlke, A. (2014). Pahoehoe to áá transition of Hawaiian lavas: An experimental study. *Bulletin of Volcanology*, *76*(11). <https://doi.org/10.1007/s00445-014-0876-9>
 
 **[1]** Robert, B., Harris, A., Gurioli, L., Médard, E., **Sehlke, A.**, & Whittington, A. G. (2014). Textural and rheological evolution of basalt flowing down a lava channel. *Bulletin of Volcanology*, *76*(6), 1–21. <https://doi.org/10.1007/s00445-014-0824-8>
+
 > 
