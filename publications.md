@@ -5,14 +5,14 @@ date:
       format: "MMMM D, YYYY"  # e.g., April 23, 2025
 ---
 
-Peer-reviewed publications are listed below. See also my [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) page for additional information.
+Peer-reviewed publications are listed below. See also my [Google Scholar](https://scholar.google.com/citations?user=aR1eUfAAAAAJ&hl=en) page for additional information.  
 
 <!--* Table of Contents
 {:toc}-->
 
 ## 2025
 
-[33] **Sehlke A**, Sears DWG, and the ANGSA Science Team (2025, in review) Thermal Equilibrium States and Timescales of Lunar Cold Traps via Low- Temperature Thermoluminescence. *Planetary and Space Science*, in review.
+[**33**] **Sehlke A**, Sears DWG, and the ANGSA Science Team (2025, in review) Thermal Equilibrium States and Timescales of Lunar Cold Traps via Low- Temperature Thermoluminescence. *Planetary and Space Science*, in review.
 
 
 
