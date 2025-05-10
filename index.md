@@ -14,3 +14,9 @@ Additionally, I am involved in the development of advanced space instruments for
 
 My research also involves studying terrestrial analogs, which are Earth-based environments that simulate extraterrestrial conditions. These analogs help us understand the geological processes and provide valuable insights into the geological features and histories of other planetary bodies.
 
+
+
+
+<!-- Elfsight Visitor Counter | Untitled Visitor Counter -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-e75f34f4-bacf-4124-b73c-5613b858b9df" data-elfsight-app-lazy></div>
