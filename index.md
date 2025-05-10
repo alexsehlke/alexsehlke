@@ -20,3 +20,10 @@ My research also involves studying terrestrial analogs, which are Earth-based en
 <!-- Elfsight Visitor Counter | Untitled Visitor Counter -->
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
 <div class="elfsight-app-e75f34f4-bacf-4124-b73c-5613b858b9df" data-elfsight-app-lazy></div>
+
+
+
+ 
+<!-- Elfsight Website Translator | Untitled Website Translator -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-a06c12e3-6eef-43e9-a9fc-ac8ab0a87fac" data-elfsight-app-lazy></div>
