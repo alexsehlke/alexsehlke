@@ -10,6 +10,11 @@ Peer-reviewed publications are listed below. See also my [Google Scholar](https:
 <!--* Table of Contents
 {:toc}-->
 
+## 2026
+
+[**34**] **Sehlke A**, Sears DWG, Schmitt HH, and the ANGSA Science Team (2026, in review) Thermal Gradient and Thermal Wave Propagation Depth Recovered Using
+Thermoluminescence of the Apollo 17 Deep Drill Core. *JGR: Planets*, in review.
+
 ## 2025
 
 [**33**] **Sehlke A**, Sears DWG, and the ANGSA Science Team (2025, in review) Thermal Equilibrium States and Timescales of Lunar Cold Traps via Low- Temperature Thermoluminescence. *Planetary and Space Science*, in review.
